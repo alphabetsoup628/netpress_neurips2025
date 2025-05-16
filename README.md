@@ -19,8 +19,8 @@ cd experiments
 ```
 
 ## Code structure 
-To test fully with app-CP, please refer to [this guide](../app-malt/README.md).
+To test fully with app-CP, please refer to [this guide](app-malt/README.md).
 
-To test fully with app-Routing, please refer to [this guide](../app-route/README.md).
+To test fully with app-Routing, please refer to [this guide](app-route/README.md).
 
-To test fully with app-K8s, please refer to [this guide](../app-k8s/README.md).
+To test fully with app-K8s, please refer to [this guide](app-k8s/README.md).
